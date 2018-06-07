@@ -12,6 +12,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [FastQTL](https://github.com/francois-a/fastqtl)
 - [GETx](https://www.gtexportal.org/home/documentationPage)
 - [PancanQTL](http://bioinfo.life.hust.edu.cn/PancanQTL/)
+- [WASP](https://github.com/bmvdgeijn/WASP)
 
 ## SNP regulation
 - [SNPhood](http://bioconductor.org/packages/release/bioc/html/SNPhood.html)
