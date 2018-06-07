@@ -10,6 +10,12 @@ Collection of tools dealing with to regulatory sequencing data sets
 ## QTL
 - [mQTLdb](http://www.mqtldb.org/)
 - [FastQTL](https://github.com/francois-a/fastqtl)
+- [GETx](https://www.gtexportal.org/home/documentationPage)
+- [PancanQTL](http://bioinfo.life.hust.edu.cn/PancanQTL/)
+
+## SNP regulation
+- [SNPhood](http://bioconductor.org/packages/release/bioc/html/SNPhood.html)
+
 
 ## 3D genome
 - [3DEpiLoop](https://bitbucket.org/4dnucleome/3depiloop)
