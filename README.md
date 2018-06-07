@@ -7,8 +7,9 @@ Collection of tools dealing with to regulatory sequencing data sets
 ## Regulatory variants
 - [cepip](http://jjwanglab.org/cepip/index.html)
 
-## mQTL
+## QTL
 - [mQTLdb](http://www.mqtldb.org/)
+- [FastQTL](https://github.com/francois-a/fastqtl)
 
 ## 3D genome
 - [3DEpiLoop](https://bitbucket.org/4dnucleome/3depiloop)
