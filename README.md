@@ -26,6 +26,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [HiCToolsCompare](https://bitbucket.org/mforcato/hictoolscompare/downloads/)
 - [HiCnv](https://github.com/ay-lab/HiCnv)
 - [HiCtrans](https://github.com/ay-lab/HiCtrans)
+- [FitHiChIP](https://github.com/ay-lab/FitHiChIP)
 
 
 ## Cis‐rSNPs--Mutation in ChIP-Seq (allele specific binding)
