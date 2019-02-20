@@ -22,11 +22,14 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [3DEpiLoop](https://bitbucket.org/4dnucleome/3depiloop)
 - [HiC-Bench](https://github.com/NYU-BFX/hic-bench)
 - [HiCExplorer](https://github.com/deeptools/HiCExplorer)
-- [hichipper](https://github.com/aryeelab/hichipper)
 - [HiCToolsCompare](https://bitbucket.org/mforcato/hictoolscompare/downloads/)
 - [HiCnv](https://github.com/ay-lab/HiCnv)
 - [HiCtrans](https://github.com/ay-lab/HiCtrans)
+
+# HiChIP
 - [FitHiChIP](https://github.com/ay-lab/FitHiChIP)
+- [hichipper](https://github.com/aryeelab/hichipper)
+- [MAPS](https://github.com/ijuric/MAPS)
 
 
 ## Cis‐rSNPs--Mutation in ChIP-Seq (allele specific binding)
