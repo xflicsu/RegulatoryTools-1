@@ -26,7 +26,7 @@ Collection of tools dealing with to regulatory sequencing data sets
 - [HiCnv](https://github.com/ay-lab/HiCnv)
 - [HiCtrans](https://github.com/ay-lab/HiCtrans)
 
-# HiChIP
+### HiChIP
 - [FitHiChIP](https://github.com/ay-lab/FitHiChIP)
 - [hichipper](https://github.com/aryeelab/hichipper)
 - [MAPS](https://github.com/ijuric/MAPS)
